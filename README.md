@@ -38,3 +38,7 @@ RIGHT JOIN:Returns all rows from the right table (DEPARTMENT) and matching rows 
 FULL OUTER JOIN: Returns all rows when there is a match in one of the tables, with NULLs where there is no match.
 
 This script helps demonstrate the different types of joins and how they affect the output when combining data from two related tables.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/c92516af-844f-4e28-8cdd-1fa5eb167b78)
+
