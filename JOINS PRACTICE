@@ -52,3 +52,17 @@ FULL OUTER JOIN DEPARTMENT
 ON EMPLOYEE.dept_id = DEPARTMENT.dept_id;
 SELECT * FROM DEPARTMENT;
 
+OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/c92516af-844f-4e28-8cdd-1fa5eb167b78)
+
+![2ND](https://github.com/user-attachments/assets/8d131fa8-7150-444b-9a3d-5d9a7f466a25)
+
+![3RD](https://github.com/user-attachments/assets/32924a01-d92f-4df0-8e56-b341d3ef7f76)
+
+![4RH](https://github.com/user-attachments/assets/8f257fee-c1a5-4146-9197-8b1ccafa28cf)
+
+![5TH](https://github.com/user-attachments/assets/c54de7ce-8b58-4e25-8a9e-e2e643844ba4)
+
+![6TH](https://github.com/user-attachments/assets/fa05cfe5-479c-4fef-8ee4-ee4df24bfcb8)
